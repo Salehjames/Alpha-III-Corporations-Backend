@@ -1,0 +1,16 @@
+{
+  "name": "alpha-iii-corporations-backend",
+  "version": "1.0.0",
+  "description": "a backend repo for Alpha III Corporations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  }
+}
